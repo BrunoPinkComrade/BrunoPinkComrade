@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BrunoPinkComrade
+- 👀 I’m interested in Economics, finance and Python in general
+- 🌱 I’m currently learning R and Python
